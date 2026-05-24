@@ -16,7 +16,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'net.neoforged:neoforge:1.21.1-51.0.0'
+    implementation 'net.neoforged:neoforge:21.1.230'
 }
 
 tasks.withType(JavaCompile).configureEach {
